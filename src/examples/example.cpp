@@ -5,7 +5,7 @@
 //     Arduino sample code (WiFiClientSecure)
 //
 
-#include <Arduino.h>
+/*#include <Arduino.h>
 #include <WiFi.h>
 #include "../Contract.h"
 #include "../Conf.h"
@@ -219,6 +219,6 @@ void testEth3() {
 
 void loop() {
     delay(5000);
-}
+}*/
 
 
